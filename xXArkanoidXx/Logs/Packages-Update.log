@@ -1,0 +1,9 @@
+
+=== Sat May 29 21:50:36 2021
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were updated:
+  com.unity.2d.animation from version 3.2.5 to 3.2.6
+  com.unity.textmeshpro from version 2.1.4 to 2.1.6
